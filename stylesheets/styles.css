@@ -13,9 +13,6 @@ body {
   background-image: url('../images/adam_gol.jpg');
   background-size: cover;
   display: block;
-  border-radius: 100px;
-  -webkit-border-radius: 100px;
-  -moz-border-radius: 100px;
 }
 
 h1, h2, h3, h4, h5, h6 {
