@@ -9,3 +9,8 @@
 .floatLeft {
 	float: left;
 }
+
+.clearContainer {
+	overflow: auto;
+	width: 100%
+}
