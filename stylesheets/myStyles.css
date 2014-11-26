@@ -16,3 +16,7 @@
 	width: 100%;
 	margin-bottom: 30px;
 }
+
+h3 a {
+	font-weight: 700;
+}
