@@ -19,10 +19,10 @@
 
 h3 a {
 	font-weight: 700;
-	color: #777;
+	color: #888;
 }
 
 h3 a:hover {
-	color: #666;
+	color: #555;
 	text-decoration: underline;
 }
