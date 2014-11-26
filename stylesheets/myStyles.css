@@ -9,11 +9,10 @@
 .floatLeft {
 	float: left;
 	margin-right: 20px;
-	margin-bottom: 20px;
 }
 
 .clearContainer {
 	overflow: auto;
-	width: 100%
+	width: 100%;
 	margin-bottom: 30px;
 }
