@@ -1,0 +1,11 @@
+.avatar-circular{
+  width: 200px;
+  height: 200px;
+  background-image: url('../images/adam_gol.jpg');
+  background-size: cover;
+  display: block;
+}
+
+.floatLeft {
+	float: left;
+}
