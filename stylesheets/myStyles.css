@@ -56,7 +56,7 @@ img.photoActive:hover {
 	opacity: 0.8;
 }
 
-.center div, img {
+.center {
 	display: block;
 	margin-left: auto;
 	margin-right: auto;
