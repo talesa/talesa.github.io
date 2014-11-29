@@ -71,7 +71,7 @@
 %
 %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
 
-\begin{minipage}[t]{0.33\textwidth} 
+\begin{minipage}[t]{0.32\textwidth} 
 
 %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
 %     EDUCATION
@@ -151,7 +151,7 @@ JavaScript \textbullet{} MongoDB
 
 \end{minipage} 
 \hfill
-\begin{minipage}[t]{0.66\textwidth} 
+\begin{minipage}[t]{0.65\textwidth} 
 
 %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
 %     EXPERIENCE
@@ -206,13 +206,6 @@ Developed remote control software for both computer and microcontroller sides al
 \descript{| The Kings Foundation}
 \location{Feb 2013 – Present}
 Providing information and advice for students from Poland looking for opportunities to study abroad.
-\sectionsep
-
-\runsubsection{Webmaster}
-\descript{| After-Hours Electronics Club}
-\location{October 2013 – May 2014 | University of Edinburgh, UK}
-Administering the club's wiki page in cooperation with University IT staff. \\
-Simple robotics projects.
 \sectionsep
 
 
