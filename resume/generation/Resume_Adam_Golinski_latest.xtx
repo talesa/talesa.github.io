@@ -171,7 +171,7 @@ Led computer courses for physically disabled clients on variety of computer skil
 
 \runsubsection{Science. Polish Perspective conference} \\
 \location{May 2014 – Present | University of Oxford, UK}
-The largest conference in the UK devoted to popularizing Polish science and research. \\
+The largest conference in the UK devoted to popularizing Polish science. \\
 Designed and supervised the registration process, administered the website.
 \sectionsep
 
@@ -181,6 +181,8 @@ Took part in the initialisation of the project and contributed to almost every a
 Implemented an automated registration process using several online services - Zapier, Paypal, Typeform, Mailchimp, Mailgun, Google Spreadsheet.
 \sectionsep
 
+\section{Side projects}
+
 \runsubsection{Startup project} \\
 \location{November 2013 - Present}
 Developing a startup aiming to improve secondary school science education by providing affordable, modern software and hardware for in class demonstrations and experiments.\\
@@ -189,7 +191,7 @@ Desgining business model, performing market analysis and work on hardware develo
 
 \runsubsection{YoLunch.me}\\
 \location{November 2014 | YHack, Yale University, New Haven, CT}
-Led a team to develop a web application using Yo, Facebook, MongoDB APIs and Flask backend. Application was deployed and now is now waiting for market research.
+Led a team to develop a web application using Yo, Facebook, MongoDB APIs and Flask backend. It was deployed and it is waiting for market research.
 \sectionsep
 
 \runsubsection{Biobot}\\
