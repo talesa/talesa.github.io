@@ -115,6 +115,8 @@
 
 \section{Coursework}
 Data Structures \\
+Great Ideas in Computer Architecture (Machine Structures) \\
+Efficient Algorithms and Intractable Problems \\
 Numerical ODEs and Applications \\
 Numerical Recipes \\
 Fourier Analysis and Statistics \\
@@ -139,11 +141,6 @@ Neo4j \textbullet{} \LaTeX\ \\
 \location{Familiar:}
 Matlab \textbullet{} Android \textbullet{} MySQL \\
 JavaScript \textbullet{} MongoDB
-\sectionsep
-
-\section{Event participation}
-Polish-American Innovation Week \\
-YHack 2014 \textbullet{} CalHacks 2014 \\ OpenGlasgow Hack 2014
 \sectionsep
 
 %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
