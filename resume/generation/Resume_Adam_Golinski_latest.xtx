@@ -1,0 +1,224 @@
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+% Deedy - One Page Two Column Resume
+% LaTeX Template
+% Version 1.2 (16/9/2014)
+%
+% Original author:
+% Debarghya Das (http://debarghyadas.com)
+%
+% Original repository:
+% https://github.com/deedydas/Deedy-Resume
+%
+% IMPORTANT: THIS TEMPLATE NEEDS TO BE COMPILED WITH XeLaTeX
+%
+% This template uses several fonts not included with Windows/Linux by
+% default. If you get compilation errors saying a font is missing, find the line
+% on which the font is used and either change it to a font included with your
+% operating system or comment the line out to use the default font.
+% 
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+% 
+% TODO:
+% 1. Integrate biber/bibtex for article citation under publications.
+% 2. Figure out a smoother way for the document to flow onto the next page.
+% 3. Add styling information for a "Projects/Hacks" section.
+% 4. Add location/address information
+% 5. Merge OpenFont and MacFonts as a single sty with options.
+% 
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+%
+% CHANGELOG:
+% v1.1:
+% 1. Fixed several compilation bugs with \renewcommand
+% 2. Got Open-source fonts (Windows/Linux support)
+% 3. Added Last Updated
+% 4. Move Title styling into .sty
+% 5. Commented .sty file.
+%
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+%
+% Known Issues:
+% 1. Overflows onto second page if any column's contents are more than the
+% vertical limit
+% 2. Hacky space on the first bullet point on the second column.
+%
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+
+
+\documentclass[]{deedy-resume-openfont}
+
+\begin{document}
+
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+%
+%     LAST UPDATED DATE
+%
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+\lastupdated
+
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+%
+%     TITLE NAME
+%
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+\namesection{Adam}{Golinski}{ \urlstyle{same}\url{http://adamgol.me} \\
+\href{mailto:adam.gol@berkeley.edu}{adam.gol@berkeley.edu} | 510.859.5795
+}
+
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+%
+%     COLUMN ONE
+%
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+
+\begin{minipage}[t]{0.33\textwidth} 
+
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+%     EDUCATION
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+
+\section{Education} 
+
+\subsection{UC Berkeley}
+\descript{Physics and Computer Science}
+\location{Year Abroad 2014-2015 | Berkeley, CA}
+\sectionsep
+
+\subsection{University of Edinburgh}
+\descript{MPhys in Computational Physics}
+\location{Expected May 2016 | Edinburgh, UK}
+\location{Direct entry to the 2\textsuperscript{nd} year of study}
+\location{First class honours expected}
+\descript{Awards}
+\location{2014 Class Medal for Computational Physics}
+\location{2013 Certificate of Merit}
+\sectionsep
+
+\subsection{I LO im. Stanislawa Staszica}
+\location{Grad. May 2012 |  Lublin, Poland}
+\location{International Baccalaureate}
+\sectionsep
+
+
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+%     LINKS
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+
+\section{Links} 
+Github:// \href{https://github.com/talesa}{\bf talesa} \\
+LinkedIn://  \href{https://www.linkedin.com/in/adamgol}{\bf adamgol} \\
+\sectionsep
+
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+%     COURSEWORK
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+
+\section{Coursework}
+Data Structures \\
+Numerical ODEs and Applications \\
+Numerical Recipes \\
+Fourier Analysis and Statistics \\
+Quantum Information Science \\
+Quantum Mechanics \\
+Classical Mechanics \\
+Thermal and Statistical Physics \\
+Electromagnetism \\
+\sectionsep
+
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+%     SKILLS
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+
+\section{Skills}
+\subsection{Programming}
+\location{Over 5000 lines:}
+Java \\
+\location{Over 500 lines:}
+C++ \textbullet{} CSS \textbullet{} PHP \textbullet{} Python \\
+Neo4j \textbullet{} \LaTeX\ \\
+\location{Familiar:}
+Matlab \textbullet{} Android \textbullet{} MySQL \\
+JavaScript \textbullet{} MongoDB
+\sectionsep
+
+\section{Event participation}
+Polish-American Innovation Week \\
+YHack 2014 \textbullet{} CalHacks 2014 \\ OpenGlasgow Hack 2014
+\sectionsep
+
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+%
+%     COLUMN TWO
+%
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+
+\end{minipage} 
+\hfill
+\begin{minipage}[t]{0.66\textwidth} 
+
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+%     EXPERIENCE
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+
+\section{Experience}
+
+\runsubsection{Summer Undergraduate Research Fellow} \\
+\location{June 2014 – July 2014 | University of Edinburgh, UK}
+Worked with \textbf{\href{http://www2.ph.ed.ac.uk/~bwaclaw/}{Barlomiej Waclaw}} to investigate the evolution of metabolic pathways by exploring the fitness landscape using graph model.
+\sectionsep
+
+\runsubsection{Computer Group Leading Tutor} \\
+\location{Feb 2013 – Jul 2014 | ECAS, Edinburgh, UK}
+Led computer courses for physically disabled clients on variety of computer skills.
+\sectionsep
+
+\runsubsection{Science. Polish Perspective conference} \\
+\location{May 2014 – Present | University of Oxford, UK}
+The largest conference in the UK devoted to popularizing Polish science and research. \\
+Designed, implemented and supervised the registration process, administered the website.
+\sectionsep
+
+\runsubsection{Education Employability Empowerment Summit}\\
+\location{June 2014 – Present | University of Edinburgh, UK}
+Took part in the initialisation of the project and contributed to almost every aspect of the organisation process - from sponsorship applications to marketing strategy.\\
+Implemented an automated registration process using several online services - Zapier, Paypal, Typeform, Mailchimp, Mailgun, Google Spreadsheet.
+\sectionsep
+
+
+\section{Side Projects}
+
+\runsubsection{Startup project} \\
+\location{November 2013 - Present}
+Developing a startup aiming to improve secondary school science education by providing affordable, modern software and hardware for in class demonstrations and experiments.\\
+Desgining business model, performing market analysis and work on hardware development.
+\sectionsep
+
+\runsubsection{YoLunch.me}\\
+\location{November 2014 | YHack, Yale University, New Haven, CT}
+Led a team to develop a web application using Yo, Facebook, MongoDB APIs and Flask backend. Application was deployed and now is now waiting for market research.
+\sectionsep
+
+\runsubsection{Biobot}\\
+\location{February 2014 | University of Edinburgh, UK}
+Developed remote control software for both computer and microcontroller sides allowing to control the robot using Xbox 360 controller and transfer photos captured using camera mounted using the bluetooth connection.\\
+\sectionsep
+
+\section{Organizations}
+
+\runsubsection{Ambassador}
+\descript{| The Kings Foundation}
+\location{Feb 2013 – Present}
+Providing information and advice for students from Poland looking for opportunities to study abroad.
+\sectionsep
+
+\runsubsection{Webmaster}
+\descript{| After-Hours Electronics Club}
+\location{October 2013 – May 2014 | University of Edinburgh, UK}
+Administering the club's wiki page in cooperation with University IT staff. \\
+Simple robotics projects.
+\sectionsep
+
+
+
+\end{minipage} 
+\end{document}  \documentclass[]{article}
