@@ -11,6 +11,11 @@
 	margin-right: 15px;
 }
 
+.floatRight {
+	float: left;
+	margin-right: 15px;
+}
+
 .clearContainer {
 	overflow: auto;
 	width: 100%;
