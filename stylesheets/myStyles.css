@@ -57,7 +57,8 @@ img.photoActive:hover {
 }
 
 .center {
-	display: inline-block;
+	display: block;
 	margin-left: auto;
 	margin-right: auto;
+	text-align: center;
 }
