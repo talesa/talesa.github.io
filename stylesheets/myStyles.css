@@ -57,3 +57,9 @@ img.photoActive:hover {
 	border: 2px solid #666;
 	opacity: 0.8;
 }
+
+.center img {
+	display: block;
+	margin-left: auto;
+	margin-right: auto;
+}
