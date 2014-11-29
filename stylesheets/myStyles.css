@@ -31,3 +31,7 @@ h3 a:hover {
 	color: #555;
 	text-decoration: underline;
 }
+
+img:hover .imgHover {
+    opacity: 0.6;
+} 
