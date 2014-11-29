@@ -181,9 +181,6 @@ Took part in the initialisation of the project and contributed to almost every a
 Implemented an automated registration process using several online services - Zapier, Paypal, Typeform, Mailchimp, Mailgun, Google Spreadsheet.
 \sectionsep
 
-
-\section{Side Projects}
-
 \runsubsection{Startup project} \\
 \location{November 2013 - Present}
 Developing a startup aiming to improve secondary school science education by providing affordable, modern software and hardware for in class demonstrations and experiments.\\
@@ -208,7 +205,12 @@ Developed remote control software for both computer and microcontroller sides al
 Providing information and advice for students from Poland looking for opportunities to study abroad.
 \sectionsep
 
-
+\runsubsection{Webmaster}
+\descript{| After-Hours Electronics Club}
+\location{October 2013 – May 2014 | University of Edinburgh, UK}
+Administering the club's wiki page in cooperation with University IT staff. \\
+Simple robotics projects.
+\sectionsep
 
 \end{minipage} 
 \end{document}  \documentclass[]{article}
