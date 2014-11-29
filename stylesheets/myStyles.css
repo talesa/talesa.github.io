@@ -48,7 +48,7 @@ img.yoLunchScreen {
 	width: 180px;
 }
 
-img.photo img.photoActive {
+img.photo, img.photoActive {
 	border-radius: 5px; 
 	border: 2px solid #8E8E8E;
 }
