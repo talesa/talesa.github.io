@@ -12,8 +12,8 @@
 }
 
 .floatRight {
-	float: left;
-	margin-right: 15px;
+	float: right;
+	margin-left: 15px;
 }
 
 .clearContainer {
