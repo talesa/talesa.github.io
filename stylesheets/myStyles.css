@@ -32,10 +32,10 @@ h3 a:hover {
 	text-decoration: underline;
 }
 
-.imgHover img {
+img .imgHover {
     opacity: 1.0;
 } 
 
-.imgHover img:hover {
+img:hover .imgHover {
     opacity: 0.6;
 } 
