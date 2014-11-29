@@ -50,7 +50,8 @@ img.yoLunchScreen {
 
 img.photo, img.photoActive {
 	border-radius: 5px;
-	margin: 5px;
+	margin-top: 5px;
+	margin-bottom: 5px;
 }
 
 img.photoActive:hover {
