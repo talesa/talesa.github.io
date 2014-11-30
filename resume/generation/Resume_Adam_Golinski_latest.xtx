@@ -85,12 +85,12 @@
 \sectionsep
 
 \subsection{University of Edinburgh}
-\descript{MPhys in Computational Physics}
+\descript{MPhys Computational Physics}
 \location{Expected May 2016 | Edinburgh, UK}
 \location{Direct entry to the 2\textsuperscript{nd} year of study}
 \location{First class honours expected}
 \descript{Awards}
-\location{2014 Class Medal for Computational Physics}
+\location{2014 Class Medal}
 \location{2013 Certificate of Merit}
 \sectionsep
 
@@ -99,15 +99,6 @@
 \location{International Baccalaureate}
 \sectionsep
 
-
-%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
-%     LINKS
-%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
-\vspace{16 pt}
-\section{Links} 
-\href{https://www.linkedin.com/in/adamgol}{linkedin.com/in/adamgol} \\
-\href{https://github.com/talesa}{github.com/talesa} \\
-\sectionsep
 
 %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
 %     COURSEWORK
@@ -122,25 +113,37 @@ Numerical Recipes \\
 Fourier Analysis and Statistics \\
 Quantum Information Science \\
 Quantum Mechanics \\
-Classical Mechanics \\
-Thermal and Statistical Physics \\
-Electromagnetism \\
+Statistical Physics \\
+Research Methods \\
+\sectionsep
+
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+%     LINKS
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+\section{Links} 
+\href{https://www.linkedin.com/in/adamgol}{linkedin.com/in/adamgol} \\
+\href{https://github.com/talesa}{github.com/talesa} \\
 \sectionsep
 
 %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
 %     SKILLS
 %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
-\vspace{6 pt}
 \section{Skills}
 \subsection{Programming}
 \location{Over 5000 lines:}
-Java \\
+\begin{tabular}{p{40pt} p{40pt} p{40pt}}
+Java & & \\
+\end{tabular} \\
 \location{Over 500 lines:}
-C++ \textbullet{} CSS \textbullet{} PHP \textbullet{} Python \\
-Neo4j \textbullet{} \LaTeX\ \\
+\begin{tabular}{p{40pt} p{40pt} p{40pt}}
+Python & C++ & Neo4j   \\
+PHP & \LaTeX\ &  \\
+\end{tabular} \\
 \location{Familiar:}
-Matlab \textbullet{} Android \textbullet{} MySQL \\
-JavaScript \textbullet{} MongoDB
+\begin{tabular}{p{40pt} p{40pt} p{40pt}}
+Matlab & JavaScript & MySQL \\
+Android & MongoDB & CSS\\
+\end{tabular} \\
 \sectionsep
 
 %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
@@ -151,7 +154,7 @@ JavaScript \textbullet{} MongoDB
 
 \end{minipage} 
 \hfill
-\begin{minipage}[t]{0.64\textwidth} 
+\begin{minipage}[t]{0.63\textwidth} 
 
 %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
 %     EXPERIENCE
@@ -159,59 +162,62 @@ JavaScript \textbullet{} MongoDB
 
 \section{Experience}
 
-\runsubsection{Summer Undergraduate Research Fellow} \\
-\location{June 2014 – July 2014 | University of Edinburgh, UK}
-Worked with \textbf{\href{http://www2.ph.ed.ac.uk/~bwaclaw/}{Barlomiej Waclaw}} to investigate the evolution of metabolic pathways by exploring the fitness landscape using graph model.
+\runsubsection{University of Edinburgh} 
+\descript{| Summer Research Fellow}
+\location{June 2014 – July 2014 | Edinburgh, UK}
+\textbullet{} Devised a distance metric for comparing metabolic pathways in the theoretical evolutionary space.\\
+\textbullet{} Generated a graph model of their fitness landscape based on the pathway's flux.
 \sectionsep
 
-\runsubsection{Computer Group Leading Tutor} \\
-\location{Feb 2013 – Jul 2014 | ECAS, Edinburgh, UK}
-Led computer courses for physically disabled clients on variety of computer skills.
+\runsubsection{ECAS Disability Charity}
+\descript{| Computer Group Leading Tutor}
+\location{Feb 2013 – Jul 2014 | Edinburgh, UK}
+\textbullet{} Led 5 basic computer skills courses for a group of 6 physically disabled clients.
 \sectionsep
 
-\runsubsection{Science. Polish Perspective conference} \\
-\location{May 2014 – Present | University of Oxford, UK}
-The largest conference devoted to integrating Polish research community abroad. \\
-Designed and supervised the registration process, administered the website.
+\runsubsection{Science. Polish Perspective conference}
+\descript{| IT Officer}
+\location{May 2014 – Present | Oxford, UK}
+\textbullet{} The largest conference devoted to integrating Polish research community. \\
+\textbullet{} Designed and supervised the registration process used by over 150 attendees.	
 \sectionsep
 
 \runsubsection{Education Employability Empowerment Summit}\\
-\location{June 2014 – Present | University of Edinburgh, UK}
-Took part in the initialisation of the project and contributed to almost every aspect of the organisation process - from sponsorship applications to marketing strategy.\\
-Implemented an automated registration process using several online services - Zapier, Paypal, Typeform, Mailchimp, Mailgun, Google Spreadsheet.
+\location{June 2014 – Present | Edinburgh, UK}
+\textbullet{} Took part in the initialisation of the project and contributed to every aspect of the organisation process - from sponsorship applications to marketing strategy.\\
+\textbullet{} Implemented an automated registration system used by 100 attendees.\\
+\textbullet{} Managed attendee communication through Mailchimp.
+\sectionsep
+
+\runsubsection{The Kings Foundation}
+\descript{| Ambassador}
+\location{Feb 2013 – Present}
+\textbullet{} Provided advice to Polish high-school students looking to study abroad.\\
+\textbullet{} Successfully guided 3 students to apply for UK universities.
 \sectionsep
 
 \section{Side projects}
 
 \runsubsection{Startup project} \\
 \location{November 2013 - Present}
-Developing modern software and affordable hardware aiming to improve secondary school science education.\\
-Desgining business model, performing market analysis and work on hardware development.
+\textbullet{} Startup aiming to improve secondary school science education by introducing modern software and affordable hardware for in-class experiments.\\
+\textbullet{} Designed business model and worked on product development.\\
+\textbullet{} Currently performing market research.\\
+\textbullet{} Reached national stage of the Scottish Institute for Enterprise competition.
 \sectionsep
 
 \runsubsection{YoLunch.me}\\
-\location{November 2014 | YHack, Yale University, New Haven, CT}
-Led a team to develop a web application using Yo, Facebook, MongoDB APIs and Flask backend. It was deployed and it is waiting for market research.
+\location{November 2014 | New Haven, CT}
+\textbullet{} Led a team of 4 (Berkeley, Penn State, Amherst) to develop a one-to-many communication application during 36h hackathon at Yale University.\\
+\textbullet{} Used Yo, Facebook, MongoDB APIs and Flask backend.\\
+\textbullet{} The application was deployed and we plan to attract first adopters soon.
 \sectionsep
 
-\runsubsection{Biobot}\\
-\location{February 2014 | University of Edinburgh, UK}
-Developed remote control software for both computer and microcontroller sides allowing to control the robot using Xbox 360 controller and transfer photos captured using camera mounted using the bluetooth connection.\\
-\sectionsep
-
-\section{Voluntary}
-
-\runsubsection{Ambassador}
-\descript{| The Kings Foundation}
-\location{Feb 2013 – Present}
-Providing information and advice for students from Poland looking for opportunities to study abroad.
-\sectionsep
-
-\runsubsection{Webmaster}
-\descript{| After-Hours Electronics Club}
-\location{October 2013 – May 2014 | University of Edinburgh, UK}
-Administering the club's wiki page in cooperation with University IT staff. \\
-Simple robotics projects.
+\runsubsection{Bio-inspired robot}\\
+\location{February 2014 | Edinburgh, UK}
+\textbullet{} Developed remote control software for computer and robot's microcontroller.\\
+\textbullet{} Used Xbox360 controller as a robot remote.\\
+\textbullet{} Software enabled transfer of camera captured photos using a bluetooth connection.
 \sectionsep
 
 \end{minipage} 

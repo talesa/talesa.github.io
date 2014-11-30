@@ -1,4 +1,4 @@
-This is XeTeX, Version 3.1415926-2.5-0.9999.3 (TeX Live 2013/Debian) (format=xelatex 2014.11.29)  29 NOV 2014 16:26
+This is XeTeX, Version 3.1415926-2.5-0.9999.3 (TeX Live 2013/Debian) (format=xelatex 2014.11.29)  29 NOV 2014 21:04
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
@@ -1113,134 +1113,16 @@ LaTeX Font Info:    External font `cmex10' loaded for size
 . 
 . This font family consists of the following shapes:
 .................................................
-.................................................
-. fontspec info: "defining-font"
-. 
-. Font family 'Lato-Lig(1)' created for font 'Lato-Lig' with options [Path =
-. fonts/lato/].
-. 
-. This font family consists of the following shapes:
-.................................................
-.................................................
-. fontspec info: "defining-font"
-. 
-. Font family 'Lato-Bol(0)' created for font 'Lato-Bol' with options [Path =
-. fonts/lato/].
-. 
-. This font family consists of the following shapes:
-.................................................
-.................................................
-. fontspec info: "defining-font"
-. 
-. Font family 'Raleway-Medium(0)' created for font 'Raleway-Medium' with
-. options [Path = fonts/raleway/].
-. 
-. This font family consists of the following shapes:
-.................................................
-.................................................
-. fontspec info: "defining-font"
-. 
-. Font family 'Lato-Bol(0)' created for font 'Lato-Bol' with options [Path =
-. fonts/lato/].
-. 
-. This font family consists of the following shapes:
-.................................................
-.................................................
-. fontspec info: "defining-font"
-. 
-. Font family 'Raleway-Medium(0)' created for font 'Raleway-Medium' with
-. options [Path = fonts/raleway/].
-. 
-. This font family consists of the following shapes:
-.................................................
-.................................................
-. fontspec info: "defining-font"
-. 
-. Font family 'Lato-Bol(0)' created for font 'Lato-Bol' with options [Path =
-. fonts/lato/].
-. 
-. This font family consists of the following shapes:
-.................................................
-.................................................
-. fontspec info: "defining-font"
-. 
-. Font family 'Raleway-Medium(0)' created for font 'Raleway-Medium' with
-. options [Path = fonts/raleway/].
-. 
-. This font family consists of the following shapes:
-.................................................
-.................................................
-. fontspec info: "defining-font"
-. 
-. Font family 'Lato-Bol(0)' created for font 'Lato-Bol' with options [Path =
-. fonts/lato/].
-. 
-. This font family consists of the following shapes:
-.................................................
-.................................................
-. fontspec info: "defining-font"
-. 
-. Font family 'Raleway-Medium(0)' created for font 'Raleway-Medium' with
-. options [Path = fonts/raleway/].
-. 
-. This font family consists of the following shapes:
-.................................................
-.................................................
-. fontspec info: "defining-font"
-. 
-. Font family 'Lato-Lig(1)' created for font 'Lato-Lig' with options [Path =
-. fonts/lato/].
-. 
-. This font family consists of the following shapes:
-.................................................
-.................................................
-. fontspec info: "defining-font"
-. 
-. Font family 'Lato-Bol(0)' created for font 'Lato-Bol' with options [Path =
-. fonts/lato/].
-. 
-. This font family consists of the following shapes:
-.................................................
-.................................................
-. fontspec info: "defining-font"
-. 
-. Font family 'Raleway-Medium(0)' created for font 'Raleway-Medium' with
-. options [Path = fonts/raleway/].
-. 
-. This font family consists of the following shapes:
-.................................................
-.................................................
-. fontspec info: "defining-font"
-. 
-. Font family 'Lato-Bol(0)' created for font 'Lato-Bol' with options [Path =
-. fonts/lato/].
-. 
-. This font family consists of the following shapes:
-.................................................
-.................................................
-. fontspec info: "defining-font"
-. 
-. Font family 'Raleway-Medium(0)' created for font 'Raleway-Medium' with
-. options [Path = fonts/raleway/].
-. 
-. This font family consists of the following shapes:
-.................................................
-.................................................
-. fontspec info: "defining-font"
-. 
-. Font family 'Lato-Bol(0)' created for font 'Lato-Bol' with options [Path =
-. fonts/lato/].
-. 
-. This font family consists of the following shapes:
-.................................................
-.................................................
-. fontspec info: "defining-font"
-. 
-. Font family 'Raleway-Medium(0)' created for font 'Raleway-Medium' with
-. options [Path = fonts/raleway/].
-. 
-. This font family consists of the following shapes:
-.................................................
+
+Overfull \hbox (4.05pt too wide) in paragraph at lines 144--144
+[]\EU1/Lato-Lig(0)/m/sc/10 JavaScript| 
+ []
+
+
+Overfull \hbox (4.375pt too wide) in paragraph at lines 145--145
+[]\EU1/Lato-Lig(0)/m/sc/10 MongoDB| 
+ []
+
 .................................................
 . fontspec info: "defining-font"
 . 
@@ -1297,14 +1179,134 @@ LaTeX Font Info:    External font `cmex10' loaded for size
 . 
 . This font family consists of the following shapes:
 .................................................
-Package atveryend Info: Empty hook `BeforeClearDocument' on input line 218.
+.................................................
+. fontspec info: "defining-font"
+. 
+. Font family 'Lato-Bol(0)' created for font 'Lato-Bol' with options [Path =
+. fonts/lato/].
+. 
+. This font family consists of the following shapes:
+.................................................
+.................................................
+. fontspec info: "defining-font"
+. 
+. Font family 'Raleway-Medium(0)' created for font 'Raleway-Medium' with
+. options [Path = fonts/raleway/].
+. 
+. This font family consists of the following shapes:
+.................................................
+.................................................
+. fontspec info: "defining-font"
+. 
+. Font family 'Raleway-Medium(0)' created for font 'Raleway-Medium' with
+. options [Path = fonts/raleway/].
+. 
+. This font family consists of the following shapes:
+.................................................
+.................................................
+. fontspec info: "defining-font"
+. 
+. Font family 'Lato-Bol(0)' created for font 'Lato-Bol' with options [Path =
+. fonts/lato/].
+. 
+. This font family consists of the following shapes:
+.................................................
+.................................................
+. fontspec info: "defining-font"
+. 
+. Font family 'Raleway-Medium(0)' created for font 'Raleway-Medium' with
+. options [Path = fonts/raleway/].
+. 
+. This font family consists of the following shapes:
+.................................................
+.................................................
+. fontspec info: "defining-font"
+. 
+. Font family 'Lato-Bol(0)' created for font 'Lato-Bol' with options [Path =
+. fonts/lato/].
+. 
+. This font family consists of the following shapes:
+.................................................
+.................................................
+. fontspec info: "defining-font"
+. 
+. Font family 'Raleway-Medium(0)' created for font 'Raleway-Medium' with
+. options [Path = fonts/raleway/].
+. 
+. This font family consists of the following shapes:
+.................................................
+.................................................
+. fontspec info: "defining-font"
+. 
+. Font family 'Raleway-Medium(0)' created for font 'Raleway-Medium' with
+. options [Path = fonts/raleway/].
+. 
+. This font family consists of the following shapes:
+.................................................
+.................................................
+. fontspec info: "defining-font"
+. 
+. Font family 'Lato-Lig(1)' created for font 'Lato-Lig' with options [Path =
+. fonts/lato/].
+. 
+. This font family consists of the following shapes:
+.................................................
+.................................................
+. fontspec info: "defining-font"
+. 
+. Font family 'Lato-Bol(0)' created for font 'Lato-Bol' with options [Path =
+. fonts/lato/].
+. 
+. This font family consists of the following shapes:
+.................................................
+.................................................
+. fontspec info: "defining-font"
+. 
+. Font family 'Raleway-Medium(0)' created for font 'Raleway-Medium' with
+. options [Path = fonts/raleway/].
+. 
+. This font family consists of the following shapes:
+.................................................
+.................................................
+. fontspec info: "defining-font"
+. 
+. Font family 'Lato-Bol(0)' created for font 'Lato-Bol' with options [Path =
+. fonts/lato/].
+. 
+. This font family consists of the following shapes:
+.................................................
+.................................................
+. fontspec info: "defining-font"
+. 
+. Font family 'Raleway-Medium(0)' created for font 'Raleway-Medium' with
+. options [Path = fonts/raleway/].
+. 
+. This font family consists of the following shapes:
+.................................................
+.................................................
+. fontspec info: "defining-font"
+. 
+. Font family 'Lato-Bol(0)' created for font 'Lato-Bol' with options [Path =
+. fonts/lato/].
+. 
+. This font family consists of the following shapes:
+.................................................
+.................................................
+. fontspec info: "defining-font"
+. 
+. Font family 'Raleway-Medium(0)' created for font 'Raleway-Medium' with
+. options [Path = fonts/raleway/].
+. 
+. This font family consists of the following shapes:
+.................................................
+Package atveryend Info: Empty hook `BeforeClearDocument' on input line 224.
 [1
 
 ]
-Package atveryend Info: Empty hook `AfterLastShipout' on input line 218.
+Package atveryend Info: Empty hook `AfterLastShipout' on input line 224.
  (./Resume_Adam_Golinski_latest.aux)
-Package atveryend Info: Empty hook `AtVeryEndDocument' on input line 218.
-Package atveryend Info: Empty hook `AtEndAfterFileList' on input line 218.
+Package atveryend Info: Empty hook `AtVeryEndDocument' on input line 224.
+Package atveryend Info: Empty hook `AtEndAfterFileList' on input line 224.
 
 
 LaTeX Font Warning: Size substitutions with differences
@@ -1313,15 +1315,15 @@ LaTeX Font Warning: Size substitutions with differences
 
 LaTeX Font Warning: Some font shapes were not available, defaults substituted.
 
-Package atveryend Info: Empty hook `AtVeryVeryEnd' on input line 218.
+Package atveryend Info: Empty hook `AtVeryVeryEnd' on input line 224.
  ) 
 Here is how much of TeX's memory you used:
- 21474 strings out of 495615
- 396917 string characters out of 6186809
- 457015 words of memory out of 5000000
- 24449 multiletter control sequences out of 15000+600000
- 6140 words of font info for 60 fonts, out of 8000000 for 9000
+ 21472 strings out of 495615
+ 396826 string characters out of 6186809
+ 458015 words of memory out of 5000000
+ 24448 multiletter control sequences out of 15000+600000
+ 6132 words of font info for 59 fonts, out of 8000000 for 9000
  36 hyphenation exceptions out of 8191
- 53i,6n,90p,10529b,492s stack positions out of 5000i,500n,10000p,200000b,80000s
+ 53i,13n,90p,10529b,492s stack positions out of 5000i,500n,10000p,200000b,80000s
 
 Output written on Resume_Adam_Golinski_latest.pdf (1 page).
