@@ -217,7 +217,7 @@ Android & MongoDB & CSS\\
 \location{February 2014 | Edinburgh, UK}
 \textbullet{} Developed remote control software for computer and robot's microcontroller.\\
 \textbullet{} Used Xbox360 controller as a robot remote.\\
-\textbullet{} Software enabled transfer of camera captured photos using a bluetooth connection.
+\textbullet{} Software enabled transfer of the photos captured with robot's camera to the controlling computer using a bluetooth connection.
 \sectionsep
 
 \end{minipage} 
