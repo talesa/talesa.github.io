@@ -103,9 +103,8 @@
 %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
 %     LINKS
 %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
-\begin{flushleft}
-\section{Links}
-\end{flushleft}
+\vspace{15 pt}
+\section{Links} 
 \href{https://www.linkedin.com/in/adamgol}{linkedin.com/in/adamgol} \\
 \href{https://github.com/talesa}{github.com/talesa} \\
 \sectionsep
@@ -131,7 +130,7 @@ Electromagnetism \\
 %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
 %     SKILLS
 %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
-
+\vspace{7 pt}
 \section{Skills}
 \subsection{Programming}
 \location{Over 5000 lines:}
@@ -182,9 +181,7 @@ Took part in the initialisation of the project and contributed to almost every a
 Implemented an automated registration process using several online services - Zapier, Paypal, Typeform, Mailchimp, Mailgun, Google Spreadsheet.
 \sectionsep
 
-\begin{flushright}
 \section{Side projects}
-\begin{flushright}
 
 \runsubsection{Startup project} \\
 \location{November 2013 - Present}
