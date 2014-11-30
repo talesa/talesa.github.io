@@ -103,8 +103,9 @@
 %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
 %     LINKS
 %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
-
-\section{Links} 
+\begin{flushleft}
+\section{Links}
+\end{flushleft}
 \href{https://www.linkedin.com/in/adamgol}{linkedin.com/in/adamgol} \\
 \href{https://github.com/talesa}{github.com/talesa} \\
 \sectionsep
@@ -181,7 +182,9 @@ Took part in the initialisation of the project and contributed to almost every a
 Implemented an automated registration process using several online services - Zapier, Paypal, Typeform, Mailchimp, Mailgun, Google Spreadsheet.
 \sectionsep
 
+\begin{flushright}
 \section{Side projects}
+\begin{flushright}
 
 \runsubsection{Startup project} \\
 \location{November 2013 - Present}
