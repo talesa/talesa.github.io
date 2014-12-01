@@ -52,9 +52,9 @@
 %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
 %
 %     LAST UPDATED DATE
-%
+%		\lastupdated
 %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
-\lastupdated
+
 
 %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
 %
@@ -165,8 +165,10 @@ Android & MongoDB & CSS\\
 \runsubsection{University of Edinburgh} 
 \descript{| Summer Research Fellow}
 \location{June 2014 – July 2014 | Edinburgh, UK}
+\textbullet{} Won summer student scheme bursary for research in evolutionary biology.\\
 \textbullet{} Devised a distance metric for comparing metabolic pathways in the theoretical evolutionary space.\\
-\textbullet{} Generated a graph model of their fitness landscape based on the pathway's flux.
+\textbullet{} Generated a graph model of their fitness landscape based on the pathway's flux.\\
+
 \sectionsep
 
 \runsubsection{ECAS Disability Charity}

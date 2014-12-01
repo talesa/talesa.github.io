@@ -1,4 +1,4 @@
-This is XeTeX, Version 3.1415926-2.5-0.9999.3 (TeX Live 2013/Debian) (format=xelatex 2014.11.29)  30 NOV 2014 16:23
+This is XeTeX, Version 3.1415926-2.5-0.9999.3 (TeX Live 2013/Debian) (format=xelatex 2014.11.29)  30 NOV 2014 20:23
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
@@ -840,21 +840,6 @@ LaTeX Font Info:    Overwriting math alphabet `\mathtt' in version `bold'
 
 ABD: EveryShipout initializing macros
 isodate: babel.sty, (n)german.sty have not been loaded
-.................................................
-. fontspec info: "defining-font"
-. 
-. Font family 'Raleway-ExtraLight(1)' created for font 'Raleway-ExtraLight'
-. with options [Path = fonts/raleway/].
-. 
-. This font family consists of the following shapes:
-. 
-. * 'normal' with NFSS spec.:
-. <->"[fonts/raleway/Raleway-ExtraLight]/ICU:script=latn;language=DFLT;"
-. 
-. * 'small caps' with NFSS spec.:
-. 
-. <->"[fonts/raleway/Raleway-ExtraLight]/ICU:script=latn;language=DFLT;+smcp;"
-.................................................
 \g_fontspec_family_Lato-Hai_int=\count150
 .................................................
 . fontspec info: "defining-font"
@@ -1299,14 +1284,14 @@ Overfull \hbox (4.375pt too wide) in paragraph at lines 145--145
 . 
 . This font family consists of the following shapes:
 .................................................
-Package atveryend Info: Empty hook `BeforeClearDocument' on input line 224.
+Package atveryend Info: Empty hook `BeforeClearDocument' on input line 226.
 [1
 
 ]
-Package atveryend Info: Empty hook `AfterLastShipout' on input line 224.
+Package atveryend Info: Empty hook `AfterLastShipout' on input line 226.
  (./Resume_Adam_Golinski_latest.aux)
-Package atveryend Info: Empty hook `AtVeryEndDocument' on input line 224.
-Package atveryend Info: Empty hook `AtEndAfterFileList' on input line 224.
+Package atveryend Info: Empty hook `AtVeryEndDocument' on input line 226.
+Package atveryend Info: Empty hook `AtEndAfterFileList' on input line 226.
 
 
 LaTeX Font Warning: Size substitutions with differences
@@ -1315,14 +1300,14 @@ LaTeX Font Warning: Size substitutions with differences
 
 LaTeX Font Warning: Some font shapes were not available, defaults substituted.
 
-Package atveryend Info: Empty hook `AtVeryVeryEnd' on input line 224.
+Package atveryend Info: Empty hook `AtVeryVeryEnd' on input line 226.
  ) 
 Here is how much of TeX's memory you used:
- 21472 strings out of 495615
- 396826 string characters out of 6186809
+ 21454 strings out of 495615
+ 396006 string characters out of 6186809
  458015 words of memory out of 5000000
- 24448 multiletter control sequences out of 15000+600000
- 6132 words of font info for 59 fonts, out of 8000000 for 9000
+ 24432 multiletter control sequences out of 15000+600000
+ 6116 words of font info for 57 fonts, out of 8000000 for 9000
  36 hyphenation exceptions out of 8191
  53i,13n,90p,10529b,492s stack positions out of 5000i,500n,10000p,200000b,80000s
 
