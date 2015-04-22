@@ -23,6 +23,25 @@ body {
     margin-right:-4px;
 }
 
+.dark_background_top_segment {
+    background:rgba(0,0,0,0.8);
+    border-radius: 25px 25px 0px 0px;
+}
+
+.dark_background_middle_segment {
+    background:rgba(0,0,0,0.8);
+}
+
+.dark_background_bottom_segment {
+    background:rgba(0,0,0,0.8);
+    border-radius: 0px 0px 25px 25px;
+}
+
+.dark_background {
+    background:rgba(0,0,0,0.8);
+    border-radius: 25px 25px 25px 25px;
+}
+
 .top-buffer { margin-top:50px; }
 
 .center-vertically {
@@ -35,7 +54,7 @@ body {
 /* Header Image Background - Change the URL below to your image path (example: ../images/background.jpg) */
 
 .full {
-    background: url("../img/berkeley_night.png") no-repeat center center fixed;
+    background: url("../img/01.jpg") no-repeat center center fixed;
     -webkit-background-size: cover;
     -moz-background-size: cover;
     background-size: cover;
