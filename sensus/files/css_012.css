@@ -1,0 +1,6 @@
+@font-face {
+  font-family: 'Lekton';
+  font-style: normal;
+  font-weight: 400;
+  src: local('Lekton'), local('Lekton-Regular'), url(http://fonts.gstatic.com/s/lekton/v7/GY6PlTlcpI9OWorXeq8Mhg.woff2) format('woff2'), url(http://fonts.gstatic.com/s/lekton/v7/Gv78TXgMRvGbTrqT_eA_TQ.woff) format('woff');
+}

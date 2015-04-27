@@ -1,0 +1,6 @@
+@font-face {
+  font-family: 'Cardo';
+  font-style: normal;
+  font-weight: 400;
+  src: local('Cardo'), local('Cardo-Regular'), url(http://fonts.gstatic.com/s/cardo/v8/XRgRvJ9BvurZhQZpuWMwgw.woff2) format('woff2'), url(http://fonts.gstatic.com/s/cardo/v8/zpisC4kGu76S5N9VhpMnEg.woff) format('woff');
+}

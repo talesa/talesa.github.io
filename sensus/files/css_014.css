@@ -1,0 +1,12 @@
+@font-face {
+  font-family: 'Allan';
+  font-style: normal;
+  font-weight: 400;
+  src: local('Allan'), local('Allan-Regular'), url(http://fonts.gstatic.com/s/allan/v7/IDtEQy3AyHFszsVmLG7PSg.woff2) format('woff2'), url(http://fonts.gstatic.com/s/allan/v7/5aqh4PlcZKVdCD6zaeSMnQ.woff) format('woff');
+}
+@font-face {
+  font-family: 'Allan';
+  font-style: normal;
+  font-weight: 700;
+  src: local('Allan Bold'), local('Allan-Bold'), url(http://fonts.gstatic.com/s/allan/v7/XrS3DTpK5zGDCQZc8I2ynvesZW2xOQ-xsNqO47m55DA.woff2) format('woff2'), url(http://fonts.gstatic.com/s/allan/v7/HDuJMALbbJ3Ny_JtXeABSfesZW2xOQ-xsNqO47m55DA.woff) format('woff');
+}
