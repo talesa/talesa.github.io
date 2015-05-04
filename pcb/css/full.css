@@ -8,6 +8,8 @@ body {
     background: none; 
     margin-top: 50px; /* Required margin for .navbar-fixed-top. Remove if using .navbar-static-top. Change if height of navigation changes. */
     color: white;
+    font-family: 'Ubuntu', sans-serif;
+    font-size: 14pt;
 }
 
 /* centered columns styles */
@@ -24,21 +26,21 @@ body {
 }
 
 .dark_background_top_segment {
-    background:rgba(0,0,0,0.8);
+    background:rgba(0,0,0,0.95);
     border-radius: 25px 25px 0px 0px;
 }
 
 .dark_background_middle_segment {
-    background:rgba(0,0,0,0.8);
+    background:rgba(0,0,0,0.95);
 }
 
 .dark_background_bottom_segment {
-    background:rgba(0,0,0,0.8);
+    background:rgba(0,0,0,0.95);
     border-radius: 0px 0px 25px 25px;
 }
 
 .dark_background {
-    background:rgba(0,0,0,0.8);
+    background:rgba(0,0,0,0.95);
     border-radius: 25px 25px 25px 25px;
 }
 
@@ -59,4 +61,8 @@ body {
     -moz-background-size: cover;
     background-size: cover;
     -o-background-size: cover;
+}
+
+.center-text {
+    text-align: center;
 }
