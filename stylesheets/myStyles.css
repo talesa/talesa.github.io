@@ -37,14 +37,18 @@ h3 a:hover {
 
 img.imgHover {
     opacity: 1.0;
-} 
+}
 
 img:hover.imgHover {
     opacity: 0.6;
-} 
+}
 
 img.confLogo {
 	width: 230px;
+}
+
+img.polonium {
+	margin-top: 19px;
 }
 
 img.yoLunchScreen {
