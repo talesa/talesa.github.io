@@ -1,12 +1,17 @@
 .avatar-circular{
   width: 200px;
   height: 200px;
-  background-image: url('../images/adam_gol.jpg');
+  background: url('../images/adam_gol.jpg');
   background-size: cover;
   display: block;
   border-radius: 100px;
   -webkit-border-radius: 100px;
   -moz-border-radius: 100px;
+}
+.avatar-circular:hover {
+  background: url('../images/hover.jpg');
+  width: 200px;
+  height: 200px;
 }
 
 .floatLeft {
