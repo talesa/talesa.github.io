@@ -8,11 +8,6 @@
   -webkit-border-radius: 100px;
   -moz-border-radius: 100px;
 }
-.avatar-circular:hover {
-  background: url('../images/hover.jpg');
-  width: 200px;
-  height: 200px;
-}
 
 .floatLeft {
 	float: left;
